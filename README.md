@@ -13,7 +13,6 @@ Coroutine
 
 ## Usage
 
-![JetpackComposePokedex]<img src="https://github.com/ZeynelErdiKarabulut/JetpackComposePokedex/blob/master/screenshot/1.png" width="350" height="700">
-![JetpackComposePokedex]<img src="https://github.com/ZeynelErdiKarabulut/JetpackComposePokedex/blob/master/screenshot/2.png" width="350" height="700">
-
+<img src="https://github.com/ZeynelErdiKarabulut/JetpackComposePokedex/blob/master/screenshot/1.png" width="300" height="600">
+<img src="https://github.com/ZeynelErdiKarabulut/JetpackComposePokedex/blob/master/screenshot/2.png" width="300" height="600">
 
